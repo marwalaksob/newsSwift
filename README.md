@@ -1,0 +1,2 @@
+# newsSwift
+Get News
